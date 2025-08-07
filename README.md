@@ -68,3 +68,12 @@ Visualization of attention weights for model interpretability
 Comparison between traditional ML and deep learning approaches
 
 Model evaluation with statistical testing and error analysis
+
+
+📌 Future Work
+
+Extend model to multilingual fake news detection
+
+Integrate real-time data streams from Telegram/WhatsApp
+
+Explore hybrid models using explainable AI (XAI) principles

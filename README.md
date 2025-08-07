@@ -5,7 +5,7 @@ This repository contains the complete implementation, results, and documentation
 
 🔍 **Project Overview**
 
-The goal of this project is to automatically detect fake news articles using textual data collected from various real-world datasets. It involves a two-phased experimental approach:
+This poject is divide into PART-1 and PART-2 for experimentation and the goal of this project is to automatically detect fake news articles using textual data collected from various real-world datasets. It involves a two-phased experimental approach:
 Baseline Models: Logistic Regression and Random Forest classifiers trained on engineered features.
 Advanced Model: A custom-built 3HAN model using a hierarchical attention mechanism designed to capture word-, sentence-, and document-level semantics.
 

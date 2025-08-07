@@ -25,7 +25,7 @@ BuzzFeed News & PolitiFact
 
 🛠️ **Technologies & Libraries**
 
-Python 3.x
+Python 3.10
 
 PyTorch
 
